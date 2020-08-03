@@ -1,3 +1,11 @@
+/*
+ * @Author: Patrick-Jun
+ * @Date: 2020-08-03 11:21:42
+ * @Last Modified by: 吴俊
+ * @Last Modified time: 2020-08-03 11:25:44
+ * @Git: https://github.com/Patrick-Jun/jQuery.rollNumber.git
+ */
+
 (function($) {
   $.fn.rollNumber = function(options) {
     let $self = this;
